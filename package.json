@@ -19,8 +19,7 @@
     "**/*.{js,jsx,ts,tsx,vue}": [
       "eslint --fix",
       "stylelint --fix",
-      "prettier --fix",
-      "git add"
+      "prettier --fix"
     ],
     "*.{css, scss, sass, less, styl, html}": [
       "stylelint --fix",
